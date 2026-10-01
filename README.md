@@ -38,13 +38,10 @@ I am a final-year undergraduate in the School of EECS at Peking University, advi
 - **Links**:
 
 ### Programmatic World Models with LLM-Generated Executable Code
-*Independent / Prospective Thesis | TODO: advisor | Sep. 2026 – Present*
+*Independent / Prospective Thesis | Sep. 2026 – Present*
 
 - **Problem**: Video world models lack long-horizon consistency and interactivity; implicit latent world models are hard to edit.
 - **Method**: Use LLM-generated executable code as an explicit, editable world model. A Python-based DSL defines objects, rules, actions, and events; a runtime engine executes and updates the world.
-- **My Contribution**: TODO.
-- **Results**: TODO.
-- **Links**: TODO.
 
 ---
 
