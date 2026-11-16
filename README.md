@@ -34,8 +34,7 @@ I am a final-year undergraduate in the School of EECS at Peking University, advi
 - **Problem**: Efficient explicit 3D shape representation and compression with high reconstruction fidelity.
 - **Method**: Ray-surface intersection, octree-based neural explicit geometry, cyclic surface sampling, interleaved ray inference.
 - **My Contribution**: Single-object optimization module; cyclic sampling strategy; interleaved ray inference scheme.
-- **Results**:
-- **Links**:
+- **Links**: https://arxiv.org/abs/2610.38441
 
 ### Programmatic World Models with LLM-Generated Executable Code
 *Independent / Prospective Thesis | Sep. 2026 – Present*
@@ -51,7 +50,7 @@ I am a final-year undergraduate in the School of EECS at Peking University, advi
 
 [A complete Reversi (Othello) game with a Monte-Carlo tree search engine](https://github.com/ChanganLu/Reversi)  
 [Play it](https://changanlu.github.io/Reversi/)  
-`MCTS` `JavaScript` `Web`
+`JavaScript` `MCTS` `Web`
 
 ### Blue-Noise
 [OpenGL-based arbitrary-dimensional Poisson disk sampling](https://github.com/ChanganLu/Blue-Noise)  
@@ -71,11 +70,9 @@ I am a final-year undergraduate in the School of EECS at Peking University, advi
 
 **VCL Summer School**  
 *Jul. 2025 – Sep. 2025*  
-TODO: one-sentence description.
 
 **Teaching Assistant, Computer Vision**  
 *Peking University, Sep. 2025 – Jan. 2026*  
-TODO: office hours, grading, tutorials.
 
 ---
 
