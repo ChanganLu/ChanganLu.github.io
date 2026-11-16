@@ -47,6 +47,11 @@ I am a final-year undergraduate in the School of EECS at Peking University, advi
 
 ## Open Source
 
+### Reversi
+
+[A complete Reversi (Othello) game with a Monte-Carlo tree search engine](https://github.com/ChanganLu/Reversi)  [Play it](https://changanlu.github.io/Reversi/)
+`MCTS` `JavaScript` `Web`
+
 ### Blue-Noise
 [OpenGL-based arbitrary-dimensional Poisson disk sampling](https://github.com/ChanganLu/Blue-Noise)  
 `C++` `OpenGL` `Geometry`
