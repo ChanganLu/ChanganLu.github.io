@@ -29,7 +29,6 @@ I am a final-year undergraduate in the School of EECS at Peking University, advi
 
 ### Neural Explicit Shape Representation
 *Advisor: Prof. Peng-Shuai Wang | Peking University | Sep. 2025 – Present*  
-*Submitted to ICLR 2027*
 
 - **Problem**: Efficient explicit 3D shape representation and compression with high reconstruction fidelity.
 - **Method**: Ray-surface intersection, octree-based neural explicit geometry, cyclic surface sampling, interleaved ray inference.
@@ -105,4 +104,4 @@ I am a final-year undergraduate in the School of EECS at Peking University, advi
 
 ---
 
-*Last updated: Sep 2026*
+*Last updated: Nov 2026*
